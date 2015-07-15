@@ -1,0 +1,21 @@
+body {
+	background: #00bcd4;
+  color: white;
+}
+
+.top {
+	color: white;
+	text-align: center;
+    padding:5px;
+    float: central;
+}
+
+.intro {
+	color: white;
+	text-align: center;
+  	position: fixed;
+  	top: 50%;
+  	left: 50%;
+  	transform: translate(-50%, -50%);
+}
+
