@@ -1,0 +1,20 @@
+{
+  "name": "IfYouWereStevenLamOfGoGoVan",
+  "version": "0.0.0",
+  "homepage": "https://github.com/WDI-HK-8/IfYouWereStevenLamOfGoGoVan",
+  "authors": [
+    "timktchan <chankingto819@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jQuery": "~2.1.4",
+    "bootstrap": "~3.3.5"
+  }
+}
